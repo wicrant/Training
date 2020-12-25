@@ -1,3 +1,4 @@
+#!/bin/bash
 echo Hello World
 NAME="Vikrant"
 #echo "My name is $NAME"
