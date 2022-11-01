@@ -73,7 +73,7 @@ mkdir hello
 touch "hello/world.txt"
 echo "Hello World" > "hello/world.txt"
 echo "Create hello/world.txt"
-DATE=$(date)
+DATE=$(date)					#Run a commmd and assign the value returned to a variable
 echo "Today is $DATE"
 echo "it is $(date "+%d/%m/%Y")"
 CURDIR=$(pwd)
